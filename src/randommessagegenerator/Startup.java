@@ -11,7 +11,7 @@ public class Startup {
     public static void main(String[] args) {
    
         
-      MessageGenerator m = new MessageGenerator();
+      RandomMessageGenerator m = new RandomMessageGenerator();
         
 
        m.addMessageToList("I dislike gin");
